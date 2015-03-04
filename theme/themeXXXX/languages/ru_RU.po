@@ -408,8 +408,8 @@ msgid "Go"
 msgstr "Поиск"
 
 #: ../../CherryFramework/includes/locals.php:58
-msgid "&laquo; Previous post."
-msgstr "&laquo; Предыдущая запись."
+msgid "&laquo; Previous post"
+msgstr "&laquo; Предыдущая запись"
 
 #: ../../CherryFramework/includes/locals.php:59
 msgid "Next Post &raquo;"

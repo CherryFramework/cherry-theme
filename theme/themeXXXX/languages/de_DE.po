@@ -410,8 +410,8 @@ msgid "Go"
 msgstr "Los"
 
 #: ../../CherryFramework/includes/locals.php:58
-msgid "&laquo; Previous post."
-msgstr "&laquo; Vorheriger Artikel "
+msgid "&laquo; Previous post"
+msgstr "&laquo; Vorheriger Artikel"
 
 #: ../../CherryFramework/includes/locals.php:59
 msgid "Next Post &raquo;"
