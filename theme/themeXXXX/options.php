@@ -96,6 +96,10 @@ if(!function_exists('optionsframework_options')) {
 								"id" => "custom_css",
 								"std" => "");
 
+			$options['live_chat_id'] = array(
+								"id"    => "live_chat_id",
+								"std"   => "7830-582-10-3714");
+
 // ---------------------------------------------------------
 // Logo & Favicon
 // ---------------------------------------------------------
